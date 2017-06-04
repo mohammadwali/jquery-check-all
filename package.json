@@ -1,0 +1,8 @@
+{
+  "name": "jquery-check-all",
+  "version": "0.5.0",
+  "description": "Quickly add check all/uncheck all functionality to your forms or tables",
+  "scripts": {
+  },
+  "license": "ISC"
+}
